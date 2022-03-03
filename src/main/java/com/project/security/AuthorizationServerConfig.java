@@ -70,7 +70,7 @@ public class AuthorizationServerConfig extends AuthorizationServerConfigurerAdap
 	
 	/**
 	 * Configuração do endpoint de introspecção nesse caso, demos,
-	 * acesso ao cliente sem precisar de usuário e senha, valida o 
+	 * acesso ao cliente sem precisar de usuário e senha, validar
 	 * token gerado.
 	 */
 	@Override
