@@ -1,62 +1,23 @@
 # Spring Security OAuth2 Api 
 
+
 # Sobre o projeto
 
-Esta API tem como objetivo demonstrar a autenticação via framework oauth2
+Esta API tem como objetivo demonstrar o fluxo de autenticação via OAuth 2.0 com Spring.
 
 # Tecnologias utilizadas
 ## Back end
-- Java
+- Java 17
 - Spring Boot
 - JPA / Hibernate
+- Spring Security
+- JWT
+- Mysql
 - Maven
-## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
-
-# Como executar o projeto
-
-## Back end
-Pré-requisitos: Java 11
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto
-./mvnw spring-boot:run
-```
-
-## Front end web
-Pré-requisitos: npm / yarn
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto front end web
-cd front-web
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
-```
 
 # Autor
 
-Wellington Mazoni de Andrade
+Raimundo Isaias Azevedo Rocha
 
-https://www.linkedin.com/in/wmazoni
+https://www.linkedin.com/in/isaias-rocha-73b5451a6/
 
