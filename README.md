@@ -19,5 +19,5 @@ Esta API tem como objetivo demonstrar o fluxo de autenticação via OAuth 2.0 co
 
 Raimundo Isaias Azevedo Rocha
 
-https://www.linkedin.com/in/isaias-rocha-73b5451a6/
+https://www.linkedin.com/in/isaias-rocha-jam/
 
